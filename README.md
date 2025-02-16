@@ -4,6 +4,18 @@
 
 
 
+## 🌍 Chose Your Language / Elige tu idioma:
+- [English](#english-gb)
+- [Español](#español-es)
+
+---
+
+## English GB
+
+---
+
+## Español ES
+
 ## 📌 ¿Quién fue el creador?  
 El creador principal de SRGAN fue **Christian Ledig**, junto con su equipo de investigadores:  
 - Lucas Theis
@@ -25,6 +37,10 @@ SRGAN se desarrolló con el objetivo de mejorar la **super-resolución de imáge
 - Buscaba generar imágenes de **alta resolución** a partir de imágenes de **baja resolución**.  
 - Superó métodos tradicionales como la **interpolación bicúbica** o redes convolucionales estándar.  
 - Su impacto fue significativo en áreas como **visión por computadora, procesamiento de imágenes y restauración de fotografías antiguas**.  
+
+>[!NOTE]
+>💡  
+>"**ESRGAN** (Enhanced Super-Resolution Generative Adversarial Network) es una versión mejorada de SRGAN, diseñada para generar imágenes de mayor calidad con detalles más nítidos, utilizando técnicas avanzadas como bloques residuales y un discriminador más sofisticado."
 
 ## 📌 **Principales características de SRGAN**
 
