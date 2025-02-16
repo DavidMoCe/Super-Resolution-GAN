@@ -149,4 +149,7 @@ La **función de pérdida** en SRGAN tiene dos componentes principales:
 [https://www.sciencedirect.com/science/article/pii/S0301932224002295](https://www.sciencedirect.com/science/article/pii/S0301932224002295)
 
 ### Código fuente de SRGAN en GitHub
-[https://github.com/tensorlayer/srgan](https://github.com/tensorlayer/srgan)  
+[https://github.com/tensorlayer/srgan](https://github.com/tensorlayer/srgan)
+
+### Recopilar y estructurar la información
+[https://chatgpt.com/](https://chatgpt.com/)
